@@ -24,7 +24,21 @@ Repositório de acompanhamento da disciplina **Frameworks Front-end**, reunindo 
 ## Materiais
 
 - [Slides](Slides/) — slides das aulas 1 a 9
-- [Resumos](Resumos/) — resumos de apoio (ex.: Angular)
+
+### Resumos
+
+| Aula | Resumo |
+|:----:|--------|
+| 1 | [Apresentação da Disciplina](<Resumos/Resumo - Aula 01 - Apresentação da Disciplina.pdf>) |
+| 2 | [Configuração do Ambiente](<Resumos/Resumo - Aula 02 - Configuração do Ambiente.pdf>) |
+| 3 | [Projetos com Frameworks](<Resumos/Resumo - Aula 03 - Projetos com Frameworks.pdf>) |
+| 3 | [Frameworks: Angular](<Resumos/Resumo - Frameworks_ Angular.pdf>) |
+| 4 | [Consumindo APIs](<Resumos/Resumo - Aula 04 - Consumindo APIs.pdf>) |
+| 5 | [Criando APIs](<Resumos/Resumo - Aula 05 - Criando APIs.pdf>) |
+| 6 | [Projetos Front-End](<Resumos/Resumo - Aula 06 - Projetos Front-End.pdf>) |
+| 7 | [Frameworks CSS](<Resumos/Resumo - Aula 07 - Frameworks CSS.pdf>) |
+| 8 | [Projeto React](<Resumos/Resumo - Aula 08 - Projeto React.pdf>) |
+| 9 | [Projeto React 02](<Resumos/Resumo - Aula 09 - Projeto React 02.pdf>) |
 
 ## Tecnologias abordadas
 
