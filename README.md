@@ -12,8 +12,11 @@ Repositório de acompanhamento da disciplina **Frameworks Front-end**, reunindo 
 | 3 | Frameworks | Vue | [Vue](https://github.com/liviaghirardi/Vue) | [Ver deploy](https://vue-gold-alpha.vercel.app/) |
 | 3 | Frameworks | Next.js | [meu-next](https://github.com/liviaghirardi/meu-next) | [Ver deploy](https://meu-next-livia.vercel.app/) |
 | 3 | Frameworks | React | [react-tailwind-food-app](https://github.com/liviaghirardi/react-tailwind-food-app) | [Ver deploy](https://react-tailwind-food-app-fmee-el5i6regn.vercel.app/) |
-| 4 | API | HTML | [api_frontend](https://github.com/liviaghirardi/api_frontend) | [Ver deploy](https://api-frontend-mu.vercel.app/) |
-| 5 | API | JSON | [criacao-api](https://github.com/liviaghirardi/criacao-api) | [Ver deploy](https://criacao-api.onrender.com/) |
+| 4 | Projetos com APIs (Atividade 01) | Markdown | [apis](https://github.com/liviaghirardi/apis) | - |
+| 4 | API de data e hora | Express + Render | [criacao-api](https://github.com/liviaghirardi/criacao-api) | [Ver deploy](https://criacao-api.onrender.com/) |
+| 4 | Front-end da API | HTML | [api_frontend](https://github.com/liviaghirardi/api_frontend) | [Ver deploy](https://api-frontend-mu.vercel.app/) |
+| 5 | API de notas (CRUD) | Express + Render | [api-notas-backend](https://github.com/liviaghirardi/api-notas-backend) | [Ver deploy](https://api-notas-backend-qp4b.onrender.com/) |
+| 5 | Front-end de notas (CRUD) | React + Vercel | [api-notas-frontend](https://github.com/liviaghirardi/api-notas-frontend) | [Ver deploy](https://api-notas-frontend-bay.vercel.app/) |
 | 6 | Projetos Front-end | - | Requisitos do Projeto Integrador | - |
 | 7 | Frameworks CSS | Tailwind CSS | [flexbox_css](https://github.com/liviaghirardi/flexbox_css) | [Ver deploy](https://frameworks-css.vercel.app/) |
 | 7 | Frameworks CSS | Tailwind CSS | [css_tailwind](https://github.com/liviaghirardi/css_tailwind) | [Ver deploy](https://css-tailwind-psi.vercel.app/) |
