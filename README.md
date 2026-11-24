@@ -17,12 +17,14 @@ Repositório de acompanhamento da disciplina **Frameworks Front-end**, reunindo 
 | 4 | Front-end da API | HTML | [api_frontend](https://github.com/liviaghirardi/api_frontend) | [Ver deploy](https://api-frontend-mu.vercel.app/) |
 | 5 | API de notas (CRUD) | Express + Render | [api-notas-backend](https://github.com/liviaghirardi/api-notas-backend) | [Ver deploy](https://api-notas-backend-qp4b.onrender.com/) |
 | 5 | Front-end de notas (CRUD) | React + Vercel | [api-notas-frontend](https://github.com/liviaghirardi/api-notas-frontend) | [Ver deploy](https://api-notas-frontend-bay.vercel.app/) |
-| 6 | Projetos Front-end | - | Requisitos do Projeto Integrador | - |
-| 7 | Frameworks CSS | Tailwind CSS | [flexbox_css](https://github.com/liviaghirardi/flexbox_css) | [Ver deploy](https://frameworks-css.vercel.app/) |
+| 6 | Gestão do Projeto Integrador | GitHub Projects (Kanban) | [Quadro do projeto](https://github.com/users/dannnpereira/projects/1) | - |
+| 7 | Frameworks CSS | CSS (Box Model + Flexbox) | [flexbox_css](https://github.com/liviaghirardi/flexbox_css) | [Ver deploy](https://frameworks-css.vercel.app/) |
 | 7 | Frameworks CSS | Tailwind CSS | [css_tailwind](https://github.com/liviaghirardi/css_tailwind) | [Ver deploy](https://css-tailwind-psi.vercel.app/) |
 | - | Hackathon | Avaliação | [Hackathon](https://github.com/liviaghirardi/Hackathon) | [Ver deploy](https://hackathon-gamma-one-15.vercel.app/) |
 | 8 | Projeto React | React | [ProjectReact](https://github.com/liviaghirardi/ProjectReact) | [Ver deploy](https://projectreact-gamma.vercel.app/) |
 | 9 | Projeto React 2 | React | [ProjectReact2](https://github.com/liviaghirardi/ProjectReact2) | [Ver deploy](https://projectreact2-eosin.vercel.app/) |
+
+**Aula 3:** [comparação entre React, Vue, Angular e Next.js](Comparacao-Frameworks.md)
 
 ## Materiais
 
